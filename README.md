@@ -1,3 +1,3 @@
 # forecasting-energy-consumption-LSTM
-Development of a machine learning applicationfor IoT platform to predict energy consumptionin smart building environment in real time.
+Development of a machine learning application for IoT platform to predict energy consumption in smart building environment in real time.
 
