@@ -24,3 +24,18 @@ We made use of Long Short-Term Memory (LSTM) cells to create a sequential model 
 
 ### Second Approach (Seq2Seq).
 We implemented a Sequence-to-Sequence model utilizing the Keras' functional API. 
+
+* #### Results of prediction for the next day (1h to 24h).
+
+  1. Case
+  ![alt text](https://raw.githubusercontent.com/Housiadas/forecasting-energy-consumption-LSTM/master/results/seq2seq/pred1.png)
+  2. Case
+  ![alt text](https://raw.githubusercontent.com/Housiadas/forecasting-energy-consumption-LSTM/master/results/seq2seq/pred2.png)
+  3. Case
+  ![alt text](https://raw.githubusercontent.com/Housiadas/forecasting-energy-consumption-LSTM/master/results/seq2seq/pred3.png)
+  4. Case
+  ![alt text](https://raw.githubusercontent.com/Housiadas/forecasting-energy-consumption-LSTM/master/results/seq2seq/pred4.png)
+  5. Case
+  ![alt text](https://raw.githubusercontent.com/Housiadas/forecasting-energy-consumption-LSTM/master/results/seq2seq/pred5.png)
+
+We took random prediction cases from the whole test set to examine the performance of our model visually.
