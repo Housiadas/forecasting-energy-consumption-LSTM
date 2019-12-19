@@ -39,3 +39,10 @@ We implemented a Sequence-to-Sequence model utilizing the Keras' functional API.
   ![alt text](https://raw.githubusercontent.com/Housiadas/forecasting-energy-consumption-LSTM/master/results/seq2seq/pred5.png)
 
 We took random prediction cases from the whole test set to examine the performance of our model visually.
+
+___
+### License
+
+Copyright © 2019 Christos Chousiadas
+
+This repository is under the MIT License.
