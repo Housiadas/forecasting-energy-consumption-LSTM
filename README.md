@@ -1,6 +1,10 @@
 # forecasting-energy-consumption-LSTM
 Development of a machine learning application for IoT platform to predict energy consumption in smart building environment in real time.
 
+### Development Platform
+The project was built with google colab, which uses python jupyter notebook. The model and the performance scripts were in the same project.
+After, the training of the model we can use the performance.py code block for evaluation, because the trained variables and the model were saved internal in the environment.
+
 ### Data Acquisition
 The dataset, that was used for the development of the machine learning models, was taken from:
 https://www.kaggle.com/uciml/electric-power-consumption-data-set
